@@ -1,6 +1,7 @@
-# Data Analytics Portfolio
+![React](https://img.shields.io/badge/React-18-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3-blue)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
 
-A modern, full-stack portfolio website for Data Analysts and Data Scientists, built with React, Express, and PostgreSQL.
 # Data Analytics Portfolio
 
 A modern full-stack portfolio website for Data Analysts and Data Scientists.
@@ -10,14 +11,6 @@ A modern full-stack portfolio website for Data Analysts and Data Scientists.
 🌐 Portfolio Website:
 https://data-analytics-portfolio-jade.vercel.app
 
-
-## Features
-
-- Modern UI
-- Dark Mode
-- Data Visualization
-- AI Recruiter Assistant
-- Portfolio Showcase
 ## 🌟 Features
 
 - **Modern UI** - Built with React, Tailwind CSS, and Framer Motion animations
