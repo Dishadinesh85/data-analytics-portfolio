@@ -1,7 +1,23 @@
 # Data Analytics Portfolio
 
 A modern, full-stack portfolio website for Data Analysts and Data Scientists, built with React, Express, and PostgreSQL.
+# Data Analytics Portfolio
 
+A modern full-stack portfolio website for Data Analysts and Data Scientists.
+
+## 🚀 Live Demo
+
+🌐 Portfolio Website:
+https://data-analytics-portfolio-jade.vercel.app
+
+
+## Features
+
+- Modern UI
+- Dark Mode
+- Data Visualization
+- AI Recruiter Assistant
+- Portfolio Showcase
 ## 🌟 Features
 
 - **Modern UI** - Built with React, Tailwind CSS, and Framer Motion animations
